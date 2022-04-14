@@ -1,5 +1,5 @@
 A file with some text
 
-Wowza, even more text!
+Wowza, even more text (change 2) text!
 
 And more
